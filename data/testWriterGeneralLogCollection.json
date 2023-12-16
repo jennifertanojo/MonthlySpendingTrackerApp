@@ -1,0 +1,16 @@
+{"logs": [
+    {
+        "amount": 5000,
+        "month": 12,
+        "year": 2000,
+        "type": "in",
+        "category": "salary"
+    },
+    {
+        "amount": 1500,
+        "month": 12,
+        "year": 2000,
+        "type": "out",
+        "category": "rent"
+    }
+]}

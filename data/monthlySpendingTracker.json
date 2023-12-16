@@ -1,0 +1,30 @@
+{"logs": [
+    {
+        "amount": 1000,
+        "month": 12,
+        "year": 2000,
+        "type": "in",
+        "category": "salary"
+    },
+    {
+        "amount": 200,
+        "month": 12,
+        "year": 2000,
+        "type": "out",
+        "category": "grocery"
+    },
+    {
+        "amount": 2000,
+        "month": 12,
+        "year": 2000,
+        "type": "in",
+        "category": "salary"
+    },
+    {
+        "amount": 6000,
+        "month": 1,
+        "year": 2000,
+        "type": "in",
+        "category": "salary"
+    }
+]}
